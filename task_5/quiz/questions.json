@@ -1,0 +1,202 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "choices": {
+            "a": "Berlin",
+            "b": "Madrid",
+            "c": "Paris",
+            "d": "Lisbon"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": {
+            "a": "Earth",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Saturn"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choices": {
+            "a": "Atlantic Ocean",
+            "b": "Indian Ocean",
+            "c": "Arctic Ocean",
+            "d": "Pacific Ocean"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "choices": {
+            "a": "Harper Lee",
+            "b": "Mark Twain",
+            "c": "J.K. Rowling",
+            "d": "Ernest Hemingway"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "choices": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "5"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "choices": {
+            "a": "1912",
+            "b": "1905",
+            "c": "1920",
+            "d": "1915"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which element has the chemical symbol O?",
+        "choices": {
+            "a": "Gold",
+            "b": "Oxygen",
+            "c": "Osmium",
+            "d": "Oganesson"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choices": {
+            "a": "Vincent van Gogh",
+            "b": "Pablo Picasso",
+            "c": "Leonardo da Vinci",
+            "d": "Claude Monet"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "choices": {
+            "a": "Seoul",
+            "b": "Beijing",
+            "c": "Bangkok",
+            "d": "Tokyo"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "choices": {
+            "a": "Oxygen",
+            "b": "Nitrogen",
+            "c": "Carbon Dioxide",
+            "d": "Hydrogen"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "choices": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "choices": {
+            "a": "Isaac Newton",
+            "b": "Albert Einstein",
+            "c": "Nikola Tesla",
+            "d": "Galileo Galilei"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choices": {
+            "a": "Gold",
+            "b": "Iron",
+            "c": "Diamond",
+            "d": "Silver"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "choices": {
+            "a": "Amazon River",
+            "b": "Nile River",
+            "c": "Yangtze River",
+            "d": "Mississippi River"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "choices": {
+            "a": "Earth",
+            "b": "Venus",
+            "c": "Saturn",
+            "d": "Jupiter"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which language is the most spoken worldwide?",
+        "choices": {
+            "a": "Spanish",
+            "b": "English",
+            "c": "Mandarin Chinese",
+            "d": "Hindi"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the name of the largest desert in the world?",
+        "choices": {
+            "a": "Sahara Desert",
+            "b": "Gobi Desert",
+            "c": "Arabian Desert",
+            "d": "Kalahari Desert"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": {
+            "a": "China",
+            "b": "Japan",
+            "c": "South Korea",
+            "d": "Thailand"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who was the first man to step on the Moon?",
+        "choices": {
+            "a": "Buzz Aldrin",
+            "b": "Yuri Gagarin",
+            "c": "Neil Armstrong",
+            "d": "Michael Collins"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which organ is responsible for pumping blood throughout the human body?",
+        "choices": {
+            "a": "Lungs",
+            "b": "Brain",
+            "c": "Liver",
+            "d": "Heart"
+        },
+        "correct_answer": "d"
+    }
+]
